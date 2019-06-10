@@ -5,4 +5,5 @@ package com.yu.gitdemo.dev1;
  * @description
  */
 public class FeatureA {
+	public void test(){}
 }
